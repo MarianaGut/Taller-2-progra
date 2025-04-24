@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import geopandas as gdp
 import seaborn as sns 
 
 a= pd.read_csv("desempleo.csv")
